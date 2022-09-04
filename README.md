@@ -1,24 +1,13 @@
-# vue3_ys
+# yuyi
 
-## Project setup
-```
-npm install
-```
+### 使用vue3+element-plus实现的简易用户管理
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+### 管理员可以在页面上查看用户信息，并对用户信息进行增、删、改等常见操作  
 
-### Compiles and minifies for production
-```
-npm run build
-```
+### 功能
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+#### 撤销按钮可以回退一次操作
+#### 点击新建或编辑按钮后出现弹窗，可以添加或修改用户信息
+#### 删除按钮和批量删除按钮可以删除用户信息
+#### 页面刷新之后用户信息保持不变
+#### 可以通过搜索找到想要的用户信息
